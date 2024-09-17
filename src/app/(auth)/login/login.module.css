@@ -1,0 +1,12 @@
+.loginContainer {
+    height: 500px;
+    width: 500px;
+}
+
+.emailInput{
+    margin-bottom: 15px;
+}
+
+.passwordInput{
+    margin-bottom: 15px;
+}
