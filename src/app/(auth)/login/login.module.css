@@ -1,12 +1,27 @@
 .loginContainer {
-    height: 500px;
-    width: 500px;
+    margin: 150px auto;
+    height: 320px;
+    width: 300px;
+    padding: 45px 25px 25px 25px;
+    border-radius: 15px;
+    border: 2px solid #e8e8e8;
 }
 
-.emailInput{
-    margin-bottom: 15px;
+.loginHeader{
+    text-align: center
 }
 
-.passwordInput{
-    margin-bottom: 15px;
+.email{
+    margin-bottom: 0px;
+}
+
+.password{
+    margin-bottom: 0px;
+}
+
+.loginBtn {
+    background-color: rgb(58, 137, 255);
+    padding: 5px 102px;
+    display: block; 
+    margin: 0 auto;
 }
